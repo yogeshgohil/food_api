@@ -2,7 +2,6 @@ forth
 /node_modules
 /public/hot
 /public/storage
-third
 /storage/*.key
 /vendor
 .env
